@@ -12,3 +12,7 @@ We have sniffed an unsecured network and found numbers that are used to encrypt 
 2. [How does HTTPS provide security](https://stackoverflow.com/questions/3968095/how-does-https-provide-security)
 3. [Prime factorization](https://privacycanada.net/mathematics/prime-factorization/)
 4. [Why RSA?](https://jaredatandi.hashnode.dev/rsa-factoring)
+
+## Requirements
+* [X] You can choose the language of your choice.
+* [X] OS needs to be Standard Ubuntu 20.04 LTS/
