@@ -16,3 +16,12 @@ We have sniffed an unsecured network and found numbers that are used to encrypt 
 ## Requirements
 * [X] You can choose the language of your choice.
 * [X] OS needs to be Standard Ubuntu 20.04 LTS/
+
+## Aditional information
+### USage
+* Usage: ```factors <file>```
+    * where <file> is a file containing natural numbers to factor.
+    One number per line
+    * You can assume that all lines will be valid natural numbers greater than 1
+    You can assume that there will be no empy line, and no space before and after the valid number
+    * The file will always end with a new line
