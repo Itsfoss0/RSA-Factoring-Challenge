@@ -8,7 +8,7 @@ We have sniffed an unsecured network and found numbers that are used to encrypt 
 
 
 ## Resources 
-1. [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem%29)
+1. [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem%29))
 2. [How does HTTPS provide security](https://stackoverflow.com/questions/3968095/how-does-https-provide-security)
 3. [Prime factorization](https://privacycanada.net/mathematics/prime-factorization/)
 4. [Why RSA?](https://jaredatandi.hashnode.dev/rsa-factoring)
