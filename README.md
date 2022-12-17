@@ -1,7 +1,8 @@
 ![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
 > RSA Refactoring challenge
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tGSUjuSBt1A" title="Mission Impossible theme song (Original)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Mission Impossible](http://img.youtube.com/vi/XAYhNHhxN0A/0.jpg)](http://www.youtube.com/watch?v=XAYhNHhxN0A "Mission Impossible")
+
 
 ## About
 This is an optional project.
